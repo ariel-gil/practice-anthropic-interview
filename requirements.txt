@@ -1,0 +1,5 @@
+pytest-xdist==3.8.0
+pytest-trepan==3.1.0
+pytest-timeout==2.1.0
+pytest-watch==4.2.0
+trepan3k==1.4.1
